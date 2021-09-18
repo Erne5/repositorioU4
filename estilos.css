@@ -1,0 +1,59 @@
+img:hover{
+    border: 5px;
+    border-color:rgb(32, 178, 44);
+    border-style: inset;
+}
+
+h3{
+    font-family: fantasy;
+    color: midnightblue;
+}
+
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aquamarine;
+    color: darkslategrey;
+}
+
+ul{
+    font-family: cursive;
+}
+
+ol{
+    font-family: cursive;
+}
+
+.color1{
+    color: firebrick;
+}
+
+.color2{
+    color: mediumseagreen;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+h5{
+    font-weight: bold;
+}
+
+ul:hover{
+    cursor: pointer;
+    font-size: large;
+    color: red;
+}
+
+ol:hover{
+    cursor: pointer;
+    font-size: large;
+    color: royalblue;
+}
+
+span:hover{
+    cursor: pointer;
+    font-family: initial;
+    color: lightseagreen;
+    font-size: larger;
+}
